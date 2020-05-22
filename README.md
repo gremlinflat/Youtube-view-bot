@@ -1,2 +1,2 @@
 # Youtube-view-bot
-Bot that automatically views youtube video
+A simple Bot that automatically views youtube video
